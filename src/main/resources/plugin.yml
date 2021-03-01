@@ -1,0 +1,12 @@
+name: EDate
+version: ${project.version}
+main: com.raafay.Main
+api-version: 1.16
+author: R3DG3KKO
+
+commands:
+  edate:
+    description: edate someone
+    usage: /edate
+
+
